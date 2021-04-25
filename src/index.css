@@ -91,6 +91,7 @@ body {
 
 #title{
   height: auto;
+  object-fit: scale-down; 
   max-width: 100%;
   display: block;
   margin-left: auto;
