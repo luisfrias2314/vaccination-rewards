@@ -81,9 +81,9 @@ function generateDownload(canvas, crop) {
         ctx.drawImage(
             badgeObj,
             // x position
-            -18,
+            -9,
             // y position
-            20,
+            10,
             // image size
             crop.width,
             crop.height
